@@ -1,0 +1,6 @@
+{
+    "editor.formatOnSave": true,
+    "files.autoSave": "off",
+    "files.autoSaveDelay": 1,
+    "prettier.withNodeModules": true
+}
